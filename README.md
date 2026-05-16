@@ -1,11 +1,19 @@
 **Not:** Şu an yalnızca `getir_yemek` scraper'ı çalışmaktadır.
 
----
-
 # Kurulum
+
+## 1. Repoyu İndirme (Clone)
+
+```bash
+git clone https://github.com/makhsudov/neyesem-scrapper.git
+cd neyesem-scrapper
+```
+
+## 2. Gereksinimlerin Kurulumu
+
 ```bash
 pip install -r requirements.txt
-playwright install chromium    # sadece --discover için gerekli
+playwright install chromium   # sadece --discover için gerekli
 ```
 
 # Çalıştırma
@@ -44,4 +52,3 @@ output/
 ```
 
 Her JSON dosyası restoran bilgileri ve tam menüyü içermektedir.
-```
