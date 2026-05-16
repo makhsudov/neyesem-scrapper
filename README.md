@@ -47,4 +47,5 @@ output/
 
 Her JSON dosyası restoran bilgileri ve tam menüyü içermektedir.
 ```
-```
+
+---
