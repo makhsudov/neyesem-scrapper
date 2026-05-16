@@ -1,14 +1,12 @@
-```markdown
 **Not:** Şu an yalnızca `getir_yemek` scraper'ı çalışmaktadır.
 
-# Kurulum
+---
 
+# Kurulum
 ```bash
 pip install -r requirements.txt
 playwright install chromium    # sadece --discover için gerekli
 ```
-
----
 
 # Çalıştırma
 
