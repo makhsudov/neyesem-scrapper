@@ -1,5 +1,4 @@
----
-
+```markdown
 **Not:** Şu an yalnızca `getir_yemek` scraper'ı çalışmaktadır.
 
 # Kurulum
@@ -44,4 +43,7 @@ output/
   istanbul/
     getir_yemek/
       ...
+```
+
+Her JSON dosyası restoran bilgileri ve tam menüyü içermektedir.
 ```
